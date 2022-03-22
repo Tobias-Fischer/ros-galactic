@@ -1,0 +1,10 @@
+ros-galactic-diagnostic-updater
+ros-galactic-geographic-msgs
+ros-galactic-rosbridge-test-msgs
+ros-galactic-rosapi-msgs
+ros-galactic-rosbridge-msgs
+ros-galactic-rosbridge-library
+ros-galactic-robot-localization
+ros-galactic-rosapi
+ros-galactic-rosbridge-server
+ros-galactic-rosbridge-suite
